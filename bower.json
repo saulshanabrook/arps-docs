@@ -1,0 +1,18 @@
+{
+  "name": "arps-docs",
+  "version": "0.0.0",
+  "homepage": "https://github.com/saulshanabrook/arps-docs",
+  "authors": [
+    "Saul <s.shanabrook@gmail.com>"
+  ],
+  "description": "Collection of released documents about Amherst Regional Public School",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
