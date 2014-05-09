@@ -1,0 +1,255 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: s.shanabrook@gmail.com
+Received: by 10.180.101.70 with SMTP id fe6csp332020wib;
+        Wed, 9 Apr 2014 12:21:46 -0700 (PDT)
+X-Received: by 10.66.122.36 with SMTP id lp4mr14428642pab.82.1397071305378;
+        Wed, 09 Apr 2014 12:21:45 -0700 (PDT)
+Return-Path: <Diana.Otto@ed.gov>
+Received: from exprod8og101.obsmtp.com (exprod8og101.obsmtp.com [64.18.3.82])
+        by mx.google.com with SMTP id xs1si895408pab.196.2014.04.09.12.21.43
+        for <s.shanabrook@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Wed, 09 Apr 2014 12:21:45 -0700 (PDT)
+Received-SPF: pass (google.com: domain of Diana.Otto@ed.gov designates 64.18.3.82 as permitted sender) client-ip=64.18.3.82;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Diana.Otto@ed.gov designates 64.18.3.82 as permitted sender) smtp.mail=Diana.Otto@ed.gov;
+       dmarc=pass (p=NONE dis=NONE) header.from=ed.gov
+Received: from eduptcexmr11.ed.gov ([165.224.212.11]) (using TLSv1) by exprod8ob101.postini.com ([64.18.7.12]) with SMTP
+	ID DSNKU0Wdx945ZXdbwbvMapYEWk5dG1YEwbqr@postini.com; Wed, 09 Apr 2014 12:21:44 PDT
+Received: from eduptcexhb01.ed.gov (eduptcexhb01.ed.gov [165.224.52.29])
+	by eduptcexmr11.ed.gov (8.13.8/8.13.8) with ESMTP id s39JLgSE001214
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=FAIL)
+	for <s.shanabrook@gmail.com>; Wed, 9 Apr 2014 14:21:43 -0500
+Received: from EDUPTCEXMB03.ed.gov ([165.224.52.24]) by eduptcexhb01.ed.gov
+ ([165.224.52.29]) with mapi; Wed, 9 Apr 2014 14:21:42 -0500
+From: "Otto, Diana" <Diana.Otto@ed.gov>
+To: "s.shanabrook@gmail.com" <s.shanabrook@gmail.com>
+Date: Wed, 9 Apr 2014 14:21:40 -0500
+Subject: your Freedom of Information Act request
+Thread-Topic: your Freedom of Information Act request
+Thread-Index: Ac9UJ7DhD+TutTOgRKitFwZ4f7XRFg==
+Message-ID: <9CB28F0CFC7F7447BFFB2BD103499D1CCA2450BFED@EDUPTCEXMB03.ed.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_9CB28F0CFC7F7447BFFB2BD103499D1CCA2450BFEDEDUPTCEXMB03e_"
+MIME-Version: 1.0
+
+--_000_9CB28F0CFC7F7447BFFB2BD103499D1CCA2450BFEDEDUPTCEXMB03e_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Good afternoon,
+
+
+
+I am writing as a follow up to our earlier telephone conversations. As I in=
+dicated when we spoke, I am writing to confirm that we have received your F=
+reedom of Information Act (FOIA) request dated 4/8/2014. When we spoke, you=
+ clarified that in addition to the copies of complaints from all cases file=
+d against the Amherst-Pelham Regional School District since 1/1/2009, you w=
+ould also like the following documents:
+
+
+
+1)      For complaints that were dismissed-the closure and/or dismissal let=
+ter
+
+2)      For complaints that were investigated-the letters of findings and a=
+ny corresponding agreements
+
+
+
+I also informed you that we typically process requests within 20 business d=
+ays of receipt; in this case, you should expect to receive the documents re=
+sponding to your request either on or before May 6, 2014. You indicated tha=
+t you would like to receive copies of our response to your request via emai=
+l.
+
+
+
+If you have any questions about your request or any of the above informatio=
+n, please don't hesitate to contact me by email or by phone at 617-289-0073=
+.
+
+
+
+Best,
+Diana
+
+
+
+Diana Otto
+
+Civil Rights Investigator
+
+US Department of Education
+
+Office for Civil Rights
+
+5 Post Office Square, 8th Floor
+
+Boston, MA 02109
+
+
+
+Phone:  617-289-0073
+
+Email: Diana.Otto@ed.gov
+
+Fax: 617-289-0150
+
+
+
+
+
+--_000_9CB28F0CFC7F7447BFFB2BD103499D1CCA2450BFEDEDUPTCEXMB03e_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Plain Text";
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1926068103;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1483834484 67698705 67698713 67698715 67698703 6769=
+8713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoPlainText>Good afternoo=
+n,<o:p></o:p></p><p class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMs=
+oPlainText>I am writing as a follow up to our earlier telephone conversatio=
+ns. As I indicated when we spoke, I am writing to confirm that we have rece=
+ived your Freedom of Information Act (FOIA) request dated 4/8/2014. When we=
+ spoke, you clarified that in addition to the copies of complaints from all=
+ cases filed against the Amherst-Pelham Regional School District since 1/1/=
+2009, you would also like the following documents:<o:p></o:p></p><p class=
+=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText style=3D'margi=
+n-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1'><![if !supportLists=
+]><span style=3D'mso-list:Ignore'>1)<span style=3D'font:7.0pt "Times New Ro=
+man"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>For complaints=
+ that were dismissed-the closure and/or dismissal letter<o:p></o:p></p><p c=
+lass=3DMsoPlainText style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l=
+0 level1 lfo1'><![if !supportLists]><span style=3D'mso-list:Ignore'>2)<span=
+ style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </sp=
+an></span><![endif]>For complaints that were investigated-the letters of fi=
+ndings and any corresponding agreements<o:p></o:p></p><p class=3DMsoPlainTe=
+xt><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText>I also informed you that we=
+ typically process requests within 20 business days of receipt; in this cas=
+e, you should expect to receive the documents responding to your request ei=
+ther on or before May 6, 2014. You indicated that you would like to receive=
+ copies of our response to your request via email.<o:p></o:p></p><p class=
+=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText>If you have an=
+y questions about your request or any of the above information, please don&=
+#8217;t hesitate to contact me by email or by phone at 617-289-0073.<o:p></=
+o:p></p><p class=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainTex=
+t>Best,<br>Diana<o:p></o:p></p><p class=3DMsoPlainText><o:p>&nbsp;</o:p></p=
+><p class=3DMsoPlainText>Diana Otto<o:p></o:p></p><p class=3DMsoPlainText>C=
+ivil Rights Investigator<o:p></o:p></p><p class=3DMsoPlainText>US Departmen=
+t of Education<o:p></o:p></p><p class=3DMsoPlainText>Office for Civil Right=
+s<o:p></o:p></p><p class=3DMsoPlainText>5 Post Office Square, 8th Floor<o:p=
+></o:p></p><p class=3DMsoPlainText>Boston, MA 02109<o:p></o:p></p><p class=
+=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText>Phone:&nbsp; 6=
+17-289-0073<o:p></o:p></p><p class=3DMsoPlainText>Email: Diana.Otto@ed.gov<=
+o:p></o:p></p><p class=3DMsoPlainText>Fax: 617-289-0150<o:p></o:p></p><p cl=
+ass=3DMsoPlainText><o:p>&nbsp;</o:p></p><p class=3DMsoPlainText><o:p>&nbsp;=
+</o:p></p></div></body></html>=
+
+--_000_9CB28F0CFC7F7447BFFB2BD103499D1CCA2450BFEDEDUPTCEXMB03e_--
